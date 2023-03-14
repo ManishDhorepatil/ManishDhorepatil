@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=manishdhorepatil&label=Profile%20views&color=0e75b6&style=flat" alt="manishdhorepatil" /> </p> -->
   
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-
+  
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
 <h3 align="left">Connect with me:</h3>
