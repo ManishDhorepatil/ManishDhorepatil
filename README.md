@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Manish Dhorepatil</h1>    
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Hi, I am Manish, a third year ENTC student from VIIT, a Learner, Explorer, Aspiring Developer and problem solver with good technical and analytical skills with considerable working experience at a few Organizations and Open Source Projects.</h3>
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&pid=Api&P=0">
 <img src="https://komarev.com/ghpvc/?username=manishdhorepatil&label=Profile%20views&color=0e75b6&style=flat" alt="manishdhorepatil" /> </p> -->
   
